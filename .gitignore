@@ -1,0 +1,12 @@
+# ignore files in /tmp/
+tmp/
+
+# ignore files with suffix '_old', '_backup'
+*.*_old
+*.*_backup
+
+# ignore files Tumbs.db
+Thumbs.db
+
+# ignore files .DS_Store
+.DS_Store
